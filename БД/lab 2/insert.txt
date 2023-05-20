@@ -1,0 +1,4 @@
+Insert Responsible_Persons values  (4, 'Терешков И.В.')
+Insert Asset_Categories values  (4, 'контракт')
+Insert Record_Card 
+values (158478, 'подписка', 10, 202, '21.10.2017', 4, 4)

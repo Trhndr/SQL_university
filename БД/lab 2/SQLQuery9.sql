@@ -1,0 +1,1 @@
+CREATE INDEX index1 ON table1 (name);
